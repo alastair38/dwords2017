@@ -1,0 +1,47 @@
+<header class="mdl-layout__header">
+  <div class="">
+      <h1 class="header__title">#DementiaWords</h1>
+  </div>
+
+    <div class="mdl-layout__header-row portfolio-navigation-row mdl-layout--large-screen-only">
+        <nav class="mdl-navigation mdl-typography--body-1-force-preferred-font">
+          {% for my_page in site.pages reversed %}
+{% if my_page.title %}
+    {% if my_page.title == page.title  %}
+
+    <a class="mdl-navigation__link is-active" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+    {% else %}
+    <a class="mdl-navigation__link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+    {% endif %}
+
+{% endif %}
+{% endfor %}
+{% if site.email %}
+{% include icon-email.html %}
+{% endif %}
+{% if site.twitter_username %}
+{% include icon-twitter.html %}
+
+{% endif %}
+
+
+        </nav>
+    </div>
+</header>
+<div class="mdl-layout__drawer mdl-layout--small-screen-only">
+
+    <nav class="mdl-navigation mdl-typography--body-1-force-preferred-font">
+      {% for my_page in site.pages reversed %}
+{% if my_page.title %}
+{% if my_page.title == page.title  %}
+
+<a class="mdl-navigation__link is-active" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+{% else %}
+<a class="mdl-navigation__link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+{% endif %}
+
+{% endif %}
+{% endfor %}
+
+        </nav>
+</div>

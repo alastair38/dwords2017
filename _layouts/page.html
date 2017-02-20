@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<article class="post mdl-cell mdl-cell--12-col mdl-card">
+
+    <h1 class="post-title mdl-card__title">{{ page.title | escape }}</h1>
+
+  <div class="mdl-card__supporting-text">
+    {{ content }}
+  </div>
+
+</article>
+
+<div class="mdl-tabs mdl-js-tabs mdl-js-ripple-effect">
+  <div class="mdl-tabs__tab-bar">
+      <a href="#articles-panel" class="mdl-tabs__tab is-active">Articles</a>
+      <a href="#statistics-panel" class="mdl-tabs__tab">Statistics</a>
+  </div>
+
+  <div class="mdl-tabs__panel is-active" id="articles-panel">
+    <div data-type="AwesomeTableView" data-viewID="{{ page.articles_id}}"></div>
+  </div>
+  <div class="mdl-tabs__panel" id="statistics-panel">
+    <div data-type="AwesomeTableView" data-viewID="{{ page.statistics_id}}"></div>
+  </div>
+  </div>
