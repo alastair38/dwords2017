@@ -67,13 +67,19 @@
   font-weight: 300;
 }
 
+h1.post-title {
+  text-align: center;
+  display: block;
+  font-size: 3rem;
+}
+
 .header__title {
   font-family: 'Cabin Sketch';
-  font-size: 34px;
+  font-size: 24px;
   text-align: center;
   font-weight: 300;
   width: 100%;
-  margin-left: 0 !important;
+  margin: .5em 0 !important;
 }
 
 .footer__title {
