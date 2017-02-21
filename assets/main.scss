@@ -70,7 +70,7 @@
 h1.post-title {
   text-align: center;
   display: block;
-  font-size: 3rem;
+  font-size: 2.25rem;
 }
 
 .header__title {
@@ -80,6 +80,10 @@ h1.post-title {
   font-weight: 300;
   width: 100%;
   margin: .5em 0 !important;
+  a {
+    color: white;
+    text-decoration: none;
+  }
 }
 
 .footer__title {
