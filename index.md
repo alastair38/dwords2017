@@ -1,26 +1,22 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Home
 layout: home
 ---
-
 ### Overview
 
-People living with dementia often feel marginalised by labelling-words like “sufferer”. One of the best ways we can stem widespread use of these terms is to challenge their use in the media.
+People living with dementia often feel marginalised by labelling-words like “**sufferer**”. One of the best ways we can stem widespread use of these terms is to challenge their use in the media.
 
-The primary purpose of this project is to identify the UK media sources that consistently refer to "dementia sufferers", or that use similarly isolating terms, when describing people living with dementia. In addition, the website provides a simple call-to-action method to hold publishers to account for the language they use.
+The primary purpose of this project is to identify the UK media sources that consistently refer to "**dementia sufferers**", or that use similarly isolating terms, when describing people living with dementia. In addition, the website provides a simple call-to-action method to hold publishers to account for the language they use.
 
-At the bottom of each card of content is a red button - <button aria-hidden="true" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent mdl-color--red-300" disabled> tweet @media</button> - that lets you tweet the publisher, flagging up the associated article.
+At the bottom of each card of content is a red button - <button aria-hidden="true" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent mdl-color--red-300" disabled="">tweet @media</button> - that lets you tweet the publisher, flagging up the associated article.
 
 ### Getting started
 
 To get started, click on the '2017' or '2016' links above. This will bring you to the 'Articles' tab view of the year in question. You can then filter the content by dragging the markers on the 'Article date' range slider, by looking for words used in headlines with the 'Search' box, or by choosing at least one option from the 'Publication' drop down list. You can also combine filters.
 
-If you click on the 'Statistics' tab alongside the 'Articles' one, you will see the number of articles that have been flagged up for each publication. The <button aria-hidden="true" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent mdl-color--red-300" disabled> tweet @media</button> button lets you tweet the publisher with a link to the following guidance on language use: ['I am not a victim': Tips for reporting on dementia (Journalism.co.uk)](http://bit.ly/2f7KCOP)
+If you click on the 'Statistics' tab alongside the 'Articles' one, you will see the number of articles that have been flagged up for each publication. The <button aria-hidden="true" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent mdl-color--red-300" disabled="">tweet @media</button> button lets you tweet the publisher with a link to the following guidance on language use: ['I am not a victim': Tips for reporting on dementia (Journalism.co.uk)](http://bit.ly/2f7KCOP)
 
-Please also visit [Dementia Action Alliance's](http://www.dementiaaction.org.uk/dementiawords) website for more information on the excellent Dementia Words Matter campaign, which is led jointly with DEEP (the Dementia Engagement Empowerment Project), or view the video below.
+Please also visit [Dementia Action Alliance's](http://www.dementiaaction.org.uk/dementiawords) website for more information on the excellent Dementia Words Matter campaign, which is led jointly with DEEP (the Dementia Engagement Empowerment Project).
 
 ### What next?
 
