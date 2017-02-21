@@ -17,7 +17,7 @@ title: DementiaWords
 email: alastair@alastaircox.com
 description: The purpose of the DementiaWords project is to identify the UK media sources that use similarly isolating terms, when describing people living with dementia. In addition, the website provides a simple call-to-action method to hold publishers to account for the language they use.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.intheburgh.co.uk/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DementiaMap
 github_username:  alastair38
 
