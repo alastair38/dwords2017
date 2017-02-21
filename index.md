@@ -4,9 +4,9 @@ layout: home
 ---
 ### Overview
 
-People living with dementia often feel marginalised by labelling-words like “sufferer”. One of the best ways we can stem widespread use of these terms is to challenge their use in the media.
+People living with dementia often feel marginalised by labelling-words like “**sufferer**”. One of the best ways we can stem widespread use of these terms is to challenge their use in the media.
 
-The primary purpose of this project is to identify the UK media sources that consistently refer to "dementia sufferers", or that use similarly isolating terms, when describing people living with dementia. In addition, the website provides a simple call-to-action method to hold publishers to account for the language they use.
+The primary purpose of this project is to identify the UK media sources that consistently refer to "**dementia sufferers**", or that use similarly isolating terms, when describing people living with dementia. In addition, the website provides a simple call-to-action method to hold publishers to account for the language they use.
 
 At the bottom of each card of content is a red button - <button aria-hidden="true" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent mdl-color--red-300" disabled="">tweet @media</button> - that lets you tweet the publisher, flagging up the associated article.
 
