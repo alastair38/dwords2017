@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+exclude: true
 ---
 ### Overview
 
